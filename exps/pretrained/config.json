@@ -1,0 +1,8 @@
+{
+    "vocab_size": 100,
+    "hidden_size": 512,
+    "num_heads": 16,
+    "num_layers": 16,
+    "dropout": 0.5,
+    "max_len": 256
+}
